@@ -1,1 +1,2 @@
-# curso-patrones-de-disenio
+# Curso de patrones de diseño en Javascript y Python
+
