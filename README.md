@@ -1,4 +1,4 @@
-# Curso de patrones de diseño en Javascript y Python
+# Curso de patrones de diseño en Javascript
 
 Los patrones de diseño en JavaScript son soluciones probadas y comprobadas para problemas comunes en el desarrollo de aplicaciones web en JavaScript. Estos patrones proporcionan un enfoque estructurado para resolver problemas y ayudan a los desarrolladores a escribir un código más claro, legible, mantenible y reutilizable.
 
